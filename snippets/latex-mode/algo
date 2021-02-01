@@ -2,6 +2,6 @@
 # name: Algorithm
 # key: algo
 # --
-\begin{algo}[$0]
-$1
+\begin{algo}[$1]
+$0
 \end{algo}
