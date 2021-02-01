@@ -2,6 +2,6 @@
 # name: Theorem
 # key: thm
 # --
-\begin{theorem}[$0]
-$1
+\begin{theorem}[$1]
+$0
 \end{theorem}
