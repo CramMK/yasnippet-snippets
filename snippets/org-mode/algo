@@ -2,6 +2,7 @@
 # name: Algorithm
 # key: algo
 # --
-\begin{algo}[$1]
+#+ATTR_LATEX: :options [$1]
+#+begin_algo
 $0
-\end{algo}
+#+end_algo

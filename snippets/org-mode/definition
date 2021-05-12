@@ -2,6 +2,7 @@
 # name: Definition
 # key: def
 # --
-\begin{definition}[$1]
+#+ATTR_LATEX: :options [$1]
+#+begin_definition
 $0
-\end{definition}
+#+end_definition
