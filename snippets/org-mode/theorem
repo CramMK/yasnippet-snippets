@@ -2,7 +2,7 @@
 # name: Theorem
 # key: thm
 # --
-#+ATTR_LATEX: :options [$1]
-#+begin_theorem
+\#+ATTR_LATEX: :options [$1]
+\#+begin_theorem
 $0
-#+end_theorem
+\#+end_theorem
