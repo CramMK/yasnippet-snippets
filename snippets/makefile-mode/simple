@@ -13,7 +13,7 @@ all: $2
 	\$\{CC\} -c \$\{CFLAGS\} \$<
 
 $2: \$\{OBJ\}
-    \$\{CC\} -o $2 \$\{OBJ\}
+	\$\{CC\} -o $2 \$\{OBJ\}
 
 clean:
 	rm -f $2 \$\{OBJ\}
