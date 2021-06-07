@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: gen
-# key: gen
+# name: simple
+# key: simple
 # --
 SRC = $1
 OBJ = \$\{SRC:.c=.o\}
