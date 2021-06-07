@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# name: gen
+# key: gen
+# --
+SRC = $0
+OBJ = ${SRC:.c=.o}
+CC = cc
+CFLAGS = -Wall -Wextra -Werror -Wpedantic
+
+all: $1
+
+.c.o:
+	${CC} -c ${CFLAGS} $<
+
+$2: ${OBJ}
+    ${CC} -o $2 ${OBJ}
+
+clean:
+	$3
+
+.PHONY: all clean $4
