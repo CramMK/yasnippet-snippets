@@ -2,6 +2,6 @@
 # name: Proof
 # key: qed
 # --
-\begin{proof}
+#+begin_proof
 $0
-\end{proof}
+#+end_proof
