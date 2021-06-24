@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Set comprehension
+# key: setc
+# --
+\{ $1 \mid $0 \}

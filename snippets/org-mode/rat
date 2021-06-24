@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Rational Numbers
+# key: rat
+# --
+\mathbb{Q} $0

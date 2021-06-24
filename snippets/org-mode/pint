@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Positive Ints
+# key: pint
+# --
+\mathbb{Z}^+ $0

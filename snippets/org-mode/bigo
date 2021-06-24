@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Big O Notation
+# key: bigo
+# --
+\mathcal{O}($0)

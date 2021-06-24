@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Begin  latex style
+# key: lbegin
+# --
+\begin{$2}[$1]
+$0
+\end{$2}

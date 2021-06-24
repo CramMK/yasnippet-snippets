@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Multiplication
+# key: prod
+# --
+\prod_{$2}^{$1} $0

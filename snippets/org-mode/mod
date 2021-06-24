@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Modular Calculation
+# key: mod
+# --
+ $2 \equiv $1 \pmod $0

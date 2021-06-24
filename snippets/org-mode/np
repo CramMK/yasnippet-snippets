@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Problem class NP
+# key: PNP
+# --
+\mathcal{NP}$0
