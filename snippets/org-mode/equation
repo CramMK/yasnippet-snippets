@@ -2,7 +2,7 @@
 # name: Equation numbered
 # key: eqn
 # --
-#+NAME: $1
+#+NAME: eq:$1
 \begin{equation}
 $0
 \end{equation}

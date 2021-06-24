@@ -2,6 +2,6 @@
 # name: Begin  latex style
 # key: lbegin
 # --
-\begin{$2}[$1]
+\begin{$1}[$2]
 $0
-\end{$2}
+\end{$1}

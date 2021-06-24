@@ -2,4 +2,4 @@
 # name: Integral
 # key: integral
 # --
-\int_{$3}^{$2} $0 \mathrm{d}${1:x}
+\int_{$1}^{$2} $0 \mathrm{d}${3:x}

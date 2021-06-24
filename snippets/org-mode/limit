@@ -2,4 +2,4 @@
 # name: Limit
 # key: limit
 # --
-\limt_{$2 \to $1} $0
+\limt_{$1 \to $2} $0
