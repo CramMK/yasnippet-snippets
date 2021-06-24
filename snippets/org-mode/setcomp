@@ -2,4 +2,4 @@
 # name: Set comprehension
 # key: setc
 # --
-\{ $1 \mid $0 \}
+\\{ $1 \mid $0 \\}
