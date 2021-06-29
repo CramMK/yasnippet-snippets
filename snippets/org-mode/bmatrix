@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: Block Matrix
-# key: bmatrix
-# --
-\begin{bmatrix}
-$0
-\end{bmatrix}

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Begin org mode style
+# key: begin
+# --
+
+#+ATTR_LATEX: :options [$1]
+#+begin_$2
+$0
+#+end_$2
