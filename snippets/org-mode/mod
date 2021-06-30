@@ -2,4 +2,4 @@
 # name: Modular Calculation
 # key: mod
 # --
-$1 \equiv $2 \pmod $0
+$1 \equiv $2 \pmod{$0}
