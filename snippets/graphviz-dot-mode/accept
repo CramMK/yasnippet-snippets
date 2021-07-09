@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: list of accepting states
+# key: acc
+# --
+$1 [shape="doublecircle"];$0
