@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: graphviz source block
+# key: graph
+# --
+#+begin_src dot :file $1
+$0
+#+end_src
