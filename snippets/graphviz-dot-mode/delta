@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: delta function notation
+# key: d
+# --
+$1 -> $2 [label="$3"];$0

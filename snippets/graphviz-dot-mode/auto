@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: generic digraph automaton
+# key: auto
+# --
+
+digraph ${1:automaton} {
+    rankdir="LR";
+    node [shape="circle"];
+    initial [label= "", shape=none,height=.0,width=.0];
+    initial -> $2;
+    $0
+}
