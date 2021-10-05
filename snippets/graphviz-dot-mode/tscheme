@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: generic scheme
+# key: scheme
+# --
+
+digraph ${1:scheme} {
+	rankdir="LR";
+	node [shape="plain"];
+	$0
+}

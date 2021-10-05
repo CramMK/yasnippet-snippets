@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: A column in a table row
+# key: col
+# --
+<td port="$2"><i>$1</i></td>$0
