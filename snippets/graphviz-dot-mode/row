@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: row in a table
+# key: row
+# --
+<tr>$0</tr>

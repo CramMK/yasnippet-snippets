@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: An entry in a table row
+# key: ent
+# --
+<td>$1</td> $0

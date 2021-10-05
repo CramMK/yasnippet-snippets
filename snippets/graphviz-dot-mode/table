@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: new table in a scheme
+# key: table
+# --
+${1:name} [label=<<table border="0" cellborder="1" cellspacing="0">
+	  $0
+</table>>];

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: foreign key arrow
+# key: for
+# --
+${1:table}:${2:foreign} -> ${3:table}:${4:key};$0
