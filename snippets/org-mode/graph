@@ -2,6 +2,10 @@
 # name: graphviz source block
 # key: graph
 # --
-#+begin_src dot :file $1
+#+begin_src dot :file $1 :results silent
 $0
 #+end_src
+#+caption: $2
+#+attr_latex: :scale ${3:0.5}
+#+label: fig:$4
+[[file:$1]]
