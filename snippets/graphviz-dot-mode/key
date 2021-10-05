@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: A primary key
+# key: pkey
+# --
+<td port="$2"><font color="red"><u>$1</u></font></td> $0

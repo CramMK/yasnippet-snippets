@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: A primary and foreign key
+# key: pfkey
+# --
+<td port="$2"><font color="blue"><u>$1</u></font></td> $0
