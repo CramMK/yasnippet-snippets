@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: An entry in a table row
-# key: col
+# key: ent
 # --
 <td port="$2">$1</td>$0
