@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: generic scheme
+# key: uml
+# --
+
+digraph ${1:scheme} {
+	node [shape = "record"]
+	edge [arrowhead = "empty"]
+
+	$2
+}

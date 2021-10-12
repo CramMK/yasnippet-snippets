@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: generic scheme
+# key: class
+# --
+$1 [
+        label = "{ $1 | $2 }"
+]
