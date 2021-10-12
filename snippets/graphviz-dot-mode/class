@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: generic scheme
+# name: generic class for uml
 # key: class
 # --
 $1 [

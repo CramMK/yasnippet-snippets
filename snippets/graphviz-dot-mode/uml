@@ -1,11 +1,10 @@
 # -*- mode: snippet -*-
-# name: generic scheme
+# name: generic uml
 # key: uml
 # --
-
 digraph ${1:scheme} {
-	node [shape = "record"]
-	edge [arrowhead = "empty"]
+        node [shape = "record"]
+        edge [arrowhead = "empty"]
 
-	$2
+        $2
 }
