@@ -2,4 +2,4 @@
 # name: Mathcal
 # key: cal
 # --
-\mathcal{$1} $2
+\mathcal{$1} $0

@@ -3,4 +3,4 @@
 # name: Bigcup
 # key: bigcup
 # --
-\bigcup_{$1}^{$2} $3
+\bigcup_{$1}^{$2} $0
