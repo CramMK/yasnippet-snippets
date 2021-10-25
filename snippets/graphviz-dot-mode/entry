@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 # name: An entry in a table row
-# key: ent
+# key: entry
 # --
 <td>$1</td> $0

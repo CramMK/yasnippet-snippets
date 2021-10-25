@@ -2,7 +2,7 @@
 # name: generic uml
 # key: uml
 # --
-digraph ${1:scheme} {
+digraph ${1:uml} {
         node [shape = "record"]
         edge [arrowhead = "empty"]
 

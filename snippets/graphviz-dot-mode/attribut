@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: erp attribut
+# key: attribut
+# --
+node [shape=ellipse]; $1

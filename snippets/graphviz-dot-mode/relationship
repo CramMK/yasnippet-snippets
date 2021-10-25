@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: erp relationship
+# key: rel
+# --
+node [shape=diamond,style=filled,color=lightgrey]; $1

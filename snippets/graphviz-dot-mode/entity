@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: erp entity
+# key: entity
+# --
+node [shape=box]; $1
