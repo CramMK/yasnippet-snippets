@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Remark
+# key: remark
+# --
+#+ATTR_LATEX: :options [$1]
+#+begin_remark
+$0
+#+end_remark

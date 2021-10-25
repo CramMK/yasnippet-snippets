@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Greek A
+# key: GA
+# --
+\mathcal{A}
