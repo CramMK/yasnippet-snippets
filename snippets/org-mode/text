@@ -2,4 +2,4 @@
 # name: Text
 # key: text
 # --
-\text{$1} $2
+\text{$1}$2
