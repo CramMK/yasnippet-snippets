@@ -3,7 +3,6 @@
 # key: fig
 # --
 #+caption: ${2:caption}
-#+attr_org: :width ${3:300}
 #+attr_latex: :width ${3:300}
 #+label: fig:${4:label}$0
 [[file:${1:image_path}]]$0
